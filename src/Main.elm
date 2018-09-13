@@ -425,7 +425,7 @@ infoFooter =
         [ p [] [ text "Double-click to edit a todo" ]
         , p []
             [ text "Written by "
-            , a [ href "https://github.com/evancz" ] [ text "Evan Czaplicki" ]
+            , a [ href "https://github.com/EdgarHSalinas" ] [ text "Edgar Salinas" ]
             ]
         , p []
             [ text "Part of "
